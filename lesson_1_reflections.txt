@@ -1,0 +1,25 @@
+Q. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+A: Pros
+	a. Don't populate the history with unnecessary versions
+	b. more flexiblity as I can configure it to save automatically too
+	c. Not necessary to be online
+	d. Can track change across multiple files
+
+   Cons
+   	a. Might forget commit
+   	b. requries a bit of time and effort to learn how to use the software and getting used to.
+
+ Q. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+ A: Git alows multi-file saving because files may be interdependent on each other. In other version control systems files like Google Docs are mostly used for files where file interdependency is very limited.
+
+ Q. How can you use the commands git log and git diff to view the history of files?
+
+ A: use the command git log and git diff <file_id> <file_id>
+
+ Q. What is a git repository?
+
+ A: A git repository is a collection of files that are tracked by git as a cohesive unit.
+
+* Q.  
