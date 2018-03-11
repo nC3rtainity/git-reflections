@@ -22,4 +22,8 @@ A: Pros
 
  A: A git repository is a collection of files that are tracked by git as a cohesive unit.
 
-* Q.  
+* Q. Wtf happens to the git log after checking out???
+
+A: i. Does it show all the commits made after that specific point only?
+	ii. Does it just put the checked out commit on the top?
+	iii. Does it show all the commits made before that specific commit only?
